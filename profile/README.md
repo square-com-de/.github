@@ -10,7 +10,7 @@ Practical, independent integrations for Loxone: bring your Hue lights under cont
 
 ## Hue2Lox
 
-<p><img src="https://raw.githubusercontent.com/square-com-de/hue2lox/main/web/hue2lox-logo.png" width="260" alt="Hue2Lox logo with its blue octopus mascot"></p>
+<p><img src="https://raw.githubusercontent.com/square-com-de/hue2lox/main/web/hue2lox-logo.png" width="260" alt="Hue2Lox logo with its octopus mascot"></p>
 
 **Bring Philips Hue lights and scenes into Loxone with ready-made commands and XML templates.**
 
