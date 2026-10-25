@@ -22,7 +22,7 @@ PLX displays the vehicle data your Porsche Connect account provides and sends se
 
 A compatible Porsche Connect cloud account is required. PLX reads status only: it does not remote-control or wake your car. Docker Compose is preferred; a LoxBerry 4 plugin is available as an alternative. The web interface supports English and German.
 
-**Current status: 0.1.2 Preview — not a stable release.** See the project documentation for tested scenarios and remaining limits.
+**Preview — not a stable release.** See the [latest release](https://github.com/square-com-de/plx/releases) for the current version, tested scenarios and remaining limits.
 
 [Repository](https://github.com/square-com-de/plx) · [Installation](https://github.com/square-com-de/plx/blob/main/INSTALL.md) · [Releases](https://github.com/square-com-de/plx/releases) · [Issues & feedback](https://github.com/square-com-de/plx/issues)
 
